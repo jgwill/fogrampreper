@@ -1,5 +1,10 @@
 # fogrampreper
-@STCGoal fogrampreper Prepare the shooting for Photogrammetric actions such as creating the footage low res for evaluating the Point cloud visually just by inserting the shooting media along with preping repo of the shooting for hi-rez processing
+
+## --@STCIssue Having seen an AI assisted process of photogrammetry processing , I've postponed this project.
+
+
+## --@STCGoal fogrampreper Prepare the shooting for Photogrammetric actions such as creating the footage low res for evaluating the Point cloud visually just by inserting the shooting media along with preping repo of the shooting for hi-rez processing
+
 
 ## --@STCGoal A low energy ARM system to preprocess, view point cloud from shooting.  You view the point cloud, you can 3D navigate on it
 * AliceVision is compiling on the PI. [view run_build.sh](./AliceVision/run_build.sh)
